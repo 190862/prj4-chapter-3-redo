@@ -1,0 +1,28 @@
+.h2-text1{background-color:cornflowerblue ;
+color: white;
+border: 2px solid black;
+margin: auto;  
+padding: 20px;
+text-align: center;
+}
+
+#container-border {
+    background-color: lavender;
+    background-repeat: repeat-x;
+    background-image: url(../image/owlheader.jpg);
+    background-size: 250px;
+	border: 2px solid black;
+    margin: auto;  
+    padding: 20px;
+    text-align: center;
+}
+
+h2{
+    color: #6495ED;
+}
+
+h3{
+	color: #6495ED;
+	text-decoration: underline;
+	font-size: 25px;
+}
