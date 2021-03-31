@@ -1,28 +1,23 @@
-.h2-text1{background-color:cornflowerblue ;
-color: white;
-border: 2px solid black;
-margin: auto;  
-padding: 20px;
-text-align: center;
+.body{
+	background: #BEEDEB
 }
 
-#container-border {
-    background-color: lavender;
-    background-repeat: repeat-x;
-    background-image: url(../image/owlheader.jpg);
-    background-size: 250px;
-	border: 2px solid black;
-    margin: auto;  
-    padding: 20px;
+.h2-color{color:#3F4896; text-shadow: 1px 1px;}
+
+.h3-shape{color: #3F4896; text-decoration: underline;}
+
+.h3-color {color: #3F4896; text-decoration: underline;}
+
+.h3-Behavior{color: #3F4896; text-decoration: underline;}
+
+.h3-Lorem-ipsum {color: #3F4896; text-decoration: underline;}
+
+.my-container {
     text-align: center;
-}
+    background-color: #81C9DC;
+	border: 1px solid blue;
+    width: 819px;
+    min-height: 152px;
+      }
 
-h2{
-    color: #6495ED;
-}
-
-h3{
-	color: #6495ED;
-	text-decoration: underline;
-	font-size: 25px;
-}
+.p-information{color: #3F4896;   text-transform: uppercase;}
